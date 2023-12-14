@@ -26,12 +26,12 @@ B: ``Malignant`` (cancerous)
 
 # Training Images for each Class
 #### Benign 
-![alt text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/Begign.png)
+![alt text](https://github.com/vinas123/Breast-cancer-detection/blob/main/image/Begign.png))
 #### Malignant
-![alt text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/malignant.png)
+![alt text](https://github.com/vinas123/Breast-cancer-detection/blob/main/image/malignant.png))
 # Image Processing
 Since the mammograms looks blury and dull, image preprocessing has been done to increase the sharpness and contrast of the image.
-![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/processing.png)
+![atl text](https://github.com/vinas123/Breast-cancer-detection/blob/main/image/processing.png)
 
 # Why Deep-Learning?
 AI system studying X-ray mammograms was shown to be better than human experts when it came to predicting whether or not a patient has breast cancer. More specifically, the model was found to be as good as two doctors looking at the images, and better at spotting cancer than a single doctor, while also reducing the number of “false-negative” results. Such systems will never replace medical staff, but would serve as an extra set of eyes, while also being able to work 24/7 without getting tired or making mistakes.
@@ -49,10 +49,10 @@ AI system studying X-ray mammograms was shown to be better than human experts wh
 
 # App Display
 ### 1. Web Page
-![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/webpage.png)
+![atl text](https://github.com/vinas123/Breast-cancer-detection/blob/main/image/webpage.png)
 ### 2. Prediction
-![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/prediction.png)
+![atl text](https://github.com/vinas123/Breast-cancer-detection/blob/main/image/prediction.png)
 ### 3. Prediction after cropping image (in the app itself)
-![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/after%20cropping.png)
+![atl text](https://github.com/vinas123/Breast-cancer-detection/blob/main/image/after%20cropping.png)
 # Author 
 ### https://dphi.tech/challenges/data-sprint-31-breast-cancer-detection/75/overview/about
